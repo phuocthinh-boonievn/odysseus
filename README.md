@@ -1,3 +1,4 @@
+This project is a fork of [[Odyssueus](https://pewdiepie-archdaemon.github.io/odysseus/)] by [Pewdiepie](https://www.youtube.com/watch?v=rAzT5lcezPs). All rights belongs to Felix Kjellberg / Pewdiepie.
 # Odysseus
 ───────────────────────────────────────────────
  ⊹ ࣪ ˖ ૮( ˶ᵔ ᵕ ᵔ˶ )っ  Odysseus vers. 1.0
